@@ -1,4 +1,4 @@
-reprepro (5.4.1-1pexip1) pexip; urgency=medium
+reprepro (5.4.1-1pexip1) pexip-fileserver; urgency=medium
 
   * Backport newer reprepro to bullseye.
 
